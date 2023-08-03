@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica_4Almacenamiento</string>
+
+    <string-array name="vuelos_array">
+        <item>Vuelo 001</item>
+        <item>Vuelo 002</item>
+        <item>Vuelo 003</item>
+    </string-array>
+
+    <string-array name="aerolineas_array">
+        <item>Aerolínea 1</item>
+        <item>Aerolínea 2</item>
+        <item>Aerolínea 3</item>
+    </string-array>
+</resources>
